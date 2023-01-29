@@ -11,7 +11,7 @@ In this areas the service is used less frequently however per ride generate more
 
 ![image](https://user-images.githubusercontent.com/120151872/215304194-b9626949-2b9c-4107-a13c-db04d8017109.png)
 
-Using this information, was created a graphic where this metrics are calculate per week.
+Using this information, was created a graphic where these metrics are presented by week.
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/120151872/215305752-fe38cb35-e10f-42b9-a21a-9e1c6641fb4b.png)
 
